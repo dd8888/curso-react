@@ -1,0 +1,22 @@
+{
+  "name": "curso-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dd8888/curso-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dd8888/curso-react/issues"
+  },
+  "homepage": "https://github.com/dd8888/curso-react#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
