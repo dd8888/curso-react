@@ -5,4 +5,4 @@ ReactDOM.render(
     <div>My Wishlist</div>
 ,    
     document.getElementById("root")
-)
+);
