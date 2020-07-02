@@ -12,11 +12,12 @@
     "parcel",
     "react"
   ],
-  "author": "Alvaro Yuste (alvaroyuste.com)",
+  "author": "David Diaz",
   "license": "MIT",
   "dependencies": {
     "classnames": "^2.2.6",
     "parcel": "^1.12.4",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -32,9 +33,7 @@
     "prettier": "^1.18.2"
   },
   "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
+    "hooks": {}
   },
   "lint-staged": {
     "src/**/*.{js,jsx}": [
