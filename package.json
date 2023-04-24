@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/dd8888/curso-react#readme",
   "dependencies": {
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.1",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
